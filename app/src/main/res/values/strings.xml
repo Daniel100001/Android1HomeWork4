@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidHomeWork4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sunset">Закат в пустыне фиолетовый</string>
+    <string name="text_here">Text Here</string>
+    <string name="more">Подробнее</string>
+</resources>
